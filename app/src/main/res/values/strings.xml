@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions_sample</string>
+
+    <string name="permissions_denied">К сожалению приложение не может работать без предоставленных разрешений</string>
+    <string name="ask_permissons">Разрешить</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
